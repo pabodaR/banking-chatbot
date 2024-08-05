@@ -54,7 +54,7 @@ This project fine-tunes a Llama 2 model to build a Banking Customer Support Chat
 |  11   |      0.1526   |      0.447681   |
 
 ### References
-https://github.com/mshumer/gpt-llm-trainer
-https://www.youtube.com/watch?v=VJkZFiuZrlw
-https://www.youtube.com/watch?v=zcMQXID447sTask
+- https://github.com/mshumer/gpt-llm-trainer
+- https://www.youtube.com/watch?v=VJkZFiuZrlw
+- https://www.youtube.com/watch?v=zcMQXID447sTask
   
