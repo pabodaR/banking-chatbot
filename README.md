@@ -36,3 +36,25 @@ This project fine-tunes a Llama 2 model to build a Banking Customer Support Chat
 ### 10. Inference
    - Use the fine-tuned model to ask questions and provide accurate responses to banking-related queries.
 
+## Project Results
+
+| Epoch | Training Loss | Validation Loss |
+|-------|---------------|-----------------|
+|   0   |      2.7336   |      2.12169    |
+|   1   |      1.9289   |      1.5676     |
+|   2   |      1.3802   |      1.07865    |
+|   3   |      0.9321   |      0.753138   |
+|   4   |      0.6239   |      0.638141   |
+|   5   |      0.4703   |      0.609385   |
+|   6   |      0.4343   |      0.532492   |
+|   7   |      0.3503   |      0.463649   |
+|   8   |      0.2541   |      0.447891   |
+|   9   |      0.2598   |      0.439263   |
+|  10   |      0.2002   |      0.451156   |
+|  11   |      0.1526   |      0.447681   |
+
+### References
+https://github.com/mshumer/gpt-llm-trainer
+https://www.youtube.com/watch?v=VJkZFiuZrlw
+https://www.youtube.com/watch?v=zcMQXID447sTask
+  
